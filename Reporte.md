@@ -60,7 +60,7 @@ Se pueden observar picos o caídas abruptas en el gráfico que pueden estar asoc
 
 Además de los hallazgos anteriores, se identificó un dato atípico en las tendencias de accidentes a lo largo del tiempo. Cerca del año 1920, se observa un pico inusual en la tasa de mortalidad, donde se registró un porcentaje de mortalidad mayor al 100%. Este dato atípico indica que hubo un accidente particularmente grave en ese período, donde todas las personas a bordo perdieron la vida o hubo un error en la carga de los datos.
 
-![alt text](imagenes\evoltemp.png)
+![alt text](\imagenes\evoltemp.png)
 
 Creación del dashboard interactivo: Se desarrolló un dashboard interactivo utilizando herramientas de visualización de datos, que permite a los usuarios explorar y analizar los datos de accidentes aéreos de manera intuitiva. El dashboard incluye gráficos, tablas y filtros interactivos para facilitar el análisis y la obtención de información detallada.
 
