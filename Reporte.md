@@ -22,7 +22,7 @@ Es importante tener en cuenta que, en el análisis de la tasa de mortalidad prom
 
 Estos datos y análisis brindan una visión general de la tasa de mortalidad promedio en los accidentes aéreos durante el periodo de 1908 a 2021, y resaltan la importancia de seguir implementando medidas de seguridad y prevención en la aviación civil para reducir aún más la tasa de mortalidad y garantizar la seguridad de los viajes aéreos.
 
-![alt text](imagenes\tendencia1.png)
+![alt text](./imagenes/tendencia1.png)
 
 
 
@@ -42,7 +42,7 @@ Además, se observó que la mayoría de los accidentes registrados en el conjunt
 
 Es fundamental tener en cuenta que estos resultados se basan en los datos disponibles en el conjunto de datos utilizado para el análisis.
 
-![alt text](imagenes\distgeopng.png)
+![alt text](./imagenes/distgeopng.png)
 
 Tendencia de accidentes a lo largo del tiempo: Se analizó la cantidad de accidentes de aviones registrados por año o por mes para identificar posibles patrones o cambios a lo largo del tiempo. Este KPI permite evaluar la efectividad de las medidas de seguridad implementadas y detectar cualquier cambio significativo en la seguridad aérea.
 
@@ -60,7 +60,7 @@ Se pueden observar picos o caídas abruptas en el gráfico que pueden estar asoc
 
 Además de los hallazgos anteriores, se identificó un dato atípico en las tendencias de accidentes a lo largo del tiempo. Cerca del año 1920, se observa un pico inusual en la tasa de mortalidad, donde se registró un porcentaje de mortalidad mayor al 100%. Este dato atípico indica que hubo un accidente particularmente grave en ese período, donde todas las personas a bordo perdieron la vida o hubo un error en la carga de los datos.
 
-![alt text](imagenes\evoltemp.png)
+![alt text](./imagenes/evoltemp.png)
 
 Creación del dashboard interactivo: Se desarrolló un dashboard interactivo utilizando herramientas de visualización de datos, que permite a los usuarios explorar y analizar los datos de accidentes aéreos de manera intuitiva. El dashboard incluye gráficos, tablas y filtros interactivos para facilitar el análisis y la obtención de información detallada.
 
